@@ -1,1 +1,2 @@
-# netflix_sql_data
+NETFLIX TV SHOWS AND MOVIES DATA ANALYSIS
+![NETFLIX]()
